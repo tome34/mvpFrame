@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F49423</color>
+    <color name="colorPrimaryDark">#F49423</color>
+    <color name="colorAccent">#F49423</color>
+    <color name="colorPrimaryOverlay">#cc0094ff</color>
+
+    <color name="windowBg">#F8F8F8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="color00">#cc000000</color>
+    <color name="color66">#666666</color>
+    <color name="color33">#333333</color>
+    <color name="colorDD">#DDDDDD</color>
+    <color name="color88">#888888</color>
+    <color name="color99">#999999</color>
+    <color name="colorCC">#CCCCCC</color>
+    <color name="colorFA">#FAFAFA</color>
+    <!--alertdialog颜色-->
+    <color name="colorline">#c6c6c6</color>
+    <color name="color_4a">#4a90e2</color>
+
+    <color name="qmui_config_color_transparent">#00000000</color>
+
+    <color name="btn_ghost_blue_border_disabled">#801B88EE</color>
+    <color name="btn_ghost_blue_border_pressed">#801B88EE</color>
+    <color name="btn_ghost_blue_border_normal">#1B88EE</color>
+
+    <color name="btn_ghost_blue_text_normal">#1B88EE</color>
+    <color name="btn_ghost_blue_text_pressed">#801B88EE</color>
+    <color name="btn_ghost_blue_text_disabled">#801B88EE</color>
+    <color name="qmui_config_color_gray_5">#858C96</color>
+
+</resources>

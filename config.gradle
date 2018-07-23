@@ -1,0 +1,21 @@
+project.ext {
+    //统一设置APP配置
+    setDefaultConfig = { extension ->
+        extension.android{
+            compileSdkVersion rootProject.compileSdkVersion
+            buildToolsVersion rootProject.buildToolsVersion
+            defaultConfig {
+                minSdkVersion rootProject.minSdkVersion
+                targetSdkVersion rootProject.targetSdkVersion
+                versionCode rootProject.versionCode
+                versionName rootProject.versionName
+
+                testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+                //MultiDex分包方法
+                multiDexEnabled true
+            }
+        }
+
+    }
+
+}
